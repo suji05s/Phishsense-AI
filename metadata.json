@@ -1,0 +1,8 @@
+{
+  "name": "Phishsense AI",
+  "description": "Graph Attention Network (GAT) and Transformer-based phishing email detection MicroSaaS integratable with Gmail for real-time inbox protection and graph threat analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
